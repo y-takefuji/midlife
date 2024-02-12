@@ -19,4 +19,4 @@ The following example can show the 4th degree of polynomial and Female.
 
 $ midlife 4 F
 
-<img src='https://github.com/ytakefuji/midlife/raw/main/Fmidlife.png' width=640 height=480>
+<img src='https://github.com/y-takefuji/midlife/raw/main/Fmidlife.png' width=640 height=480>
